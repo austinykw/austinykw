@@ -4,9 +4,9 @@
 
 I find where a business is losing time or money, prove it with data, and build the tool that fixes it — from SQL and dashboards to forecasting models and AI services in production.
 
-🌐 **Portfolio:** [austinykw.github.io](https://austinykw.github.io/) — case studies with interactive demos
-💼 **LinkedIn:** [linkedin.com/in/austinykw](https://www.linkedin.com/in/austinykw/)
-📫 **Email:** austinyu504@gmail.com
+- 🌐 **Portfolio:** [austinykw.github.io](https://austinykw.github.io/) — case studies with interactive demos
+- 💼 **LinkedIn:** [linkedin.com/in/austinykw](https://www.linkedin.com/in/austinykw/)
+- 📫 **Email:** austinyu504@gmail.com
 
 ### Selected work
 
@@ -21,8 +21,8 @@ I find where a business is losing time or money, prove it with data, and build t
 
 ### Toolkit
 
-**Analysis & BI:** SQL (SQL Server / SSMS, DuckDB), Power BI & DAX, Dundas BI, Tableau, Excel
-**Python:** pandas, NumPy, SciPy, scikit-learn, Matplotlib
-**Machine learning & AI:** forecasting, recommender systems, TensorFlow / Keras, PyTorch, LLMs
-**Cloud & delivery:** AWS (Bedrock, Lambda, IAM, Secrets Manager), FastAPI, Docker
+- **Analysis & BI:** SQL (SQL Server / SSMS, DuckDB), Power BI & DAX, Dundas BI, Tableau, Excel
+- **Python:** pandas, NumPy, SciPy, scikit-learn, Matplotlib
+- **Machine learning & AI:** forecasting, recommender systems, TensorFlow / Keras, PyTorch, LLMs
+- **Cloud & delivery:** AWS (Bedrock, Lambda, IAM, Secrets Manager), FastAPI, Docker
 
