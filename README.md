@@ -2,7 +2,7 @@
 
 **Data Analyst · Machine Learning Developer** · Vancouver, BC
 
-I turn operational data into measurable savings, from SQL analysis and dashboards to forecasting models and AI services in production.
+I bridge business operations and machine learning, turning operational data into cost savings, better decisions and production-ready tools.
 
 - 🌐 **Portfolio:** [austinykw.github.io](https://austinykw.github.io/) : case studies with interactive demos
 - 💼 **LinkedIn:** [linkedin.com/in/austinykw](https://www.linkedin.com/in/austinykw/)
