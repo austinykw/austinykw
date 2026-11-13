@@ -4,10 +4,6 @@
 
 I bridge business operations and machine learning, turning operational data into cost savings, better decisions and production-ready tools.
 
-- 🌐 **Portfolio:** [austinykw.github.io](https://austinykw.github.io/), with case studies and interactive demos
-- 💼 **LinkedIn:** [linkedin.com/in/austinykw](https://www.linkedin.com/in/austinykw/)
-- 📫 **Email:** austinyu504@gmail.com
-
 ### Selected work
 
 | Project | What it shows |
